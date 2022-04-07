@@ -6,8 +6,6 @@ Some description!
 
 This is an example text.
 
-# Test
+## Local Development
 
-??
-
-??
+1. Open index.html in your browser.
